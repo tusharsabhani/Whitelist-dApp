@@ -1,0 +1,1 @@
+Whitelist dApp for pre-sale of NFTs
